@@ -1,0 +1,16 @@
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\bin\Debug\mgen_textBlockSelection.exe.config
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\bin\Debug\mgen_textBlockSelection.exe
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\bin\Debug\mgen_textBlockSelection.pdb
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\MainWindow.g.cs
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\App.g.cs
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection_MarkupCompile.cache
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection_MarkupCompile.lref
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\MainWindow.baml
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection.g.resources
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection.Properties.Resources.resources
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection.csproj.GenerateResource.Cache
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection.exe
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection.pdb
+D:\Program Files\HK\Desktop\mgen_textBlockSelection\mgen_textBlockSelection\obj\Debug\mgen_textBlockSelection.csprojResolveAssemblyReference.cache
